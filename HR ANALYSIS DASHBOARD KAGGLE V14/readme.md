@@ -2,11 +2,10 @@
 
 
 Light Theme Preview:
-[Light theme preview](HR ANALYSIS DASHBOARD KAGGLE V14/dashboard light theme.png)
-
+![dashboard light theme](https://github.com/aaghashm/Tableau/assets/66006584/c3347ce6-f7f5-4c27-bdd3-b21a95f8876a)
 
 Dark Theme Preview:
-[Light theme preview](HR ANALYSIS DASHBOARD KAGGLE V14/dashboard dark theme.png)
+![dashboard dark theme](https://github.com/aaghashm/Tableau/assets/66006584/90f8aad2-4db9-44ed-baf3-68c88acd7fe8)
 
 
 ⭐ Tools: Figma for the background layout and Tableau for the data part
