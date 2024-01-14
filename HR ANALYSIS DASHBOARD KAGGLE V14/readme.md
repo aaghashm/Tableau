@@ -25,3 +25,11 @@ Dark Theme Preview:
          3. Best sources for diverse recruitment? 
 
          4. Any pay inequities within the company?
+         
+⭐ Helpful videos:
+
+        1.Figma basic container - https://www.youtube.com/watch?v=yOQ-5EcrgLE
+        
+        2.Tableau mode switch - https://www.youtube.com/watch?v=p9RhEBaY10M
+        
+        3.Toggle switch in Figma - https://www.youtube.com/watch?v=TKaecvutJq4
