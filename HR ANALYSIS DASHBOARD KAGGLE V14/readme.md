@@ -1,5 +1,7 @@
-⭐Live view Available at Tableau Public: http://tinyurl.com/tableauhrdashboard
+🟢Live view Available at Tableau Public: http://tinyurl.com/tableauhrdashboard
+🟢LinkedIn post : http://tinyurl.com/hrdashlinkedin
 
+🟢Message me in LinkedIn if u have any doubts / need figma file - http://tinyurl.com/aaghashmli
 
 Light Theme Preview:
 ![dashboard light theme](https://github.com/aaghashm/Tableau/assets/66006584/c3347ce6-f7f5-4c27-bdd3-b21a95f8876a)
@@ -23,4 +25,3 @@ Dark Theme Preview:
          3. Best sources for diverse recruitment? 
 
          4. Any pay inequities within the company?
-
