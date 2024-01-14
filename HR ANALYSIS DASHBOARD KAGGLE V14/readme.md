@@ -1,5 +1,5 @@
 🟢Live view Available at Tableau Public: http://tinyurl.com/tableauhrdashboard
-🟢LinkedIn post : http://tinyurl.com/hrdashlinkedin
+             🟢LinkedIn post : http://tinyurl.com/hrdashlinkedin
 
 🟢Message me in LinkedIn if u have any doubts / need figma file - http://tinyurl.com/aaghashmli
 
