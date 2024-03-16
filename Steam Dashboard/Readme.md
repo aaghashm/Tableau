@@ -1,6 +1,8 @@
+⭐I did this dashboard during Round 2 of Wesualization unleased challenge conducted by Weschool,Mumbai. This helped us reach the final round of the competition.
+
 🟢Live view Available at Tableau Public: https://tinyurl.com/aagsteam 🟢LinkedIn post : coming on monday
 
-🟢Message me in LinkedIn if u have any doubts / need figma file - http://tinyurl.com/aaghashmli
+🟢Message me on LinkedIn if u have any doubts / need Figma file - http://tinyurl.com/aaghashmli
 
 🟢Check documentation.pdf for The Documentation
 
@@ -9,6 +11,6 @@ Dashboard Image:
 
 ⭐ Tools: Figma for the background layout and Tableau for the data part
 
-⭐ Dataset link : HR Dataset from Kaggle
+⭐ Dataset link : https://tinyurl.com/aagsteamdata -- given by Weschool,Mumbai
 
 ⭐ Font: Arial
