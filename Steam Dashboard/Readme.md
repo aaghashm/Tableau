@@ -1,6 +1,6 @@
 ⭐I did this dashboard during Round 2 of Wesualization unleased challenge conducted by Weschool,Mumbai. This helped us reach the final round of the competition.
 
-🟢Live view Available at Tableau Public: https://tinyurl.com/aagsteam 🟢LinkedIn post : coming on monday
+🟢Live view Available at Tableau Public: https://tinyurl.com/aagsteam 🟢LinkedIn post : https://shorturl.at/wyPW9
 
 🟢Message me on LinkedIn if u have any doubts / need Figma file - http://tinyurl.com/aaghashmli
 
