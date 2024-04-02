@@ -1,6 +1,6 @@
 🟢Live view Available at Tableau Public: https://tinyurl.com/aagamadash
 
-🟢LinkedIn post : coming sson
+🟢LinkedIn post : coming soon
 
 🟢Message me in LinkedIn if u have any doubts / need figma file - http://tinyurl.com/aaghashmli
 
