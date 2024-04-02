@@ -5,7 +5,8 @@
 🟢Message me in LinkedIn if u have any doubts / need figma file - http://tinyurl.com/aaghashmli
 
 Dashboard Preview:
-![Dashboard Screenshot_Sparks](https://github.com/aaghashm/Amazon-dashboard/assets/66006584/bea29d70-9166-448e-b267-dc40e85f90ae)
+![Dashboard Screenshot_Sparks](https://github.com/aaghashm/Tableau/assets/66006584/57c768f8-9178-4b24-9a90-ff98bb53f566)
+
 
 
 
